@@ -1,0 +1,1 @@
+This project implements the Insertion Sort algorithm in Python to arrange numbers in monotonically decreasing order. The program demonstrates array traversal, element comparison, and shifting techniques used in sorting. It is beginner friendly, efficient for small datasets, and helps learners understand fundamental sorting concepts and algorithm design in Python programming.
